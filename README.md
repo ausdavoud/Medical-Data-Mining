@@ -10,6 +10,8 @@ Exercises, short written questions and the final exam from Prof. Marateb's medic
 
 ## Exercises
 
+Group work, with full write-ups.
+
 | | Topic | |
 | :-- | :-- | :-- |
 | **03** | Outlier detection with 3σ, Hampel and Tukey, and how min-max and z-score scaling tame an ill-conditioned least-squares problem | [notebooks](exercises/03-outliers-and-scaling) · [PDF](exercises/03-outliers-and-scaling/scaling-comparison.pdf) |
@@ -18,7 +20,7 @@ Exercises, short written questions and the final exam from Prof. Marateb's medic
 
 ## Questions
 
-Shorter pieces: a question, then our answer.
+Group work too, in shorter pieces: a question, then our answer.
 
 | | Topic | |
 | :-- | :-- | :-- |
@@ -28,7 +30,7 @@ Shorter pieces: a question, then our answer.
 
 ## Final exam
 
-Ten questions, answered alone: Bayes' rule for a screening test, skewness and Tukey's fences, normality and Spearman's rho in SPSS, an odds ratio with its confidence interval, the condition number of raw and standardized data, logistic regression in SPSS, cross-validated diagnostic metrics at two cutoffs, data leakage and nested cross-validation, and calibration versus discrimination when two models share an AUROC of 0.83.
+Ten questions, answered individually: Bayes' rule for a screening test, skewness and Tukey's fences, normality and Spearman's rho in SPSS, an odds ratio with its confidence interval, the condition number of raw and standardized data, logistic regression in SPSS, cross-validated diagnostic metrics at two cutoffs, data leakage and nested cross-validation, and calibration versus discrimination when two models share an AUROC of 0.83.
 
 [PDF](final-exam/final-exam.pdf) · [source](final-exam/final-exam.tex) · [notebooks](final-exam/notebooks)
 
@@ -52,10 +54,12 @@ The reports are Persian LaTeX, built with XeLaTeX and [xepersian](https://ctan.o
 latexmk final-exam/final-exam.tex
 ```
 
-## Group
+## Who did what
 
-- Zahra Cheraghi
+The exercises and questions were group work:
+
+- Zahra Cheraghi &nbsp;[@elham-cheraghi](https://github.com/elham-cheraghi)
 - Mohammad Mallaee &nbsp;[@mohammad-mallaee](https://github.com/mohammad-mallaee)
 - Davoud Nosrati Amirabadi &nbsp;[@ausdavoud](https://github.com/ausdavoud)
 
-The final exam is Davoud's alone.
+The final exam was individual: Davoud's own.
