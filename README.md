@@ -54,12 +54,10 @@ The reports are Persian LaTeX, built with XeLaTeX and [xepersian](https://ctan.o
 latexmk final-exam/final-exam.tex
 ```
 
-## Who did what
+## About us
 
 The exercises and questions were group work:
 
 - Zahra Cheraghi &nbsp;[@elham-cheraghi](https://github.com/elham-cheraghi)
 - Mohammad Mallaee &nbsp;[@mohammad-mallaee](https://github.com/mohammad-mallaee)
 - Davoud Nosrati Amirabadi &nbsp;[@ausdavoud](https://github.com/ausdavoud)
-
-The final exam was individual: Davoud's own.
